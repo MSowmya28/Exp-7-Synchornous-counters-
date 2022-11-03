@@ -1,5 +1,6 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
-# AIM: To implement 4 bit up and down counters and validate  functionality.
+# AIM: 
+To implement 4 bit up and down counters and validate  functionality.
 ## HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ## SOFTWARE REQUIRED:   Quartus prime
 # THEORY 
@@ -65,7 +66,9 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 # PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by: M.Sowmya
+
 RegisterNumber:  212221230107
 */
 ### Up Counter:
